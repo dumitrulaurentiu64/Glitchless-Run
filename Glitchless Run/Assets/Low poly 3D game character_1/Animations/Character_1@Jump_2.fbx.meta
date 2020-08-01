@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 5a001b2963232ea46b46f1e6207911c2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Character_1_full_body
+    100004: Head
+    100006: HeadTop_End
+    100008: Hips
+    100010: LeftArm
+    100012: LeftFoot
+    100014: LeftForeArm
+    100016: LeftHand
+    100018: LeftHandIndex1
+    100020: LeftHandIndex2
+    100022: LeftHandIndex3
+    100024: LeftHandIndex4
+    100026: LeftHandMiddle1
+    100028: LeftHandMiddle2
+    100030: LeftHandMiddle3
+    100032: LeftHandMiddle4
+    100034: LeftHandPinky1
+    100036: LeftHandPinky2
+    100038: LeftHandPinky3
+    100040: LeftHandPinky4
+    100042: LeftHandRing1
+    100044: LeftHandRing2
+    100046: LeftHandRing3
+    100048: LeftHandRing4
+    100050: LeftHandThumb1
+    100052: LeftHandThumb2
+    100054: LeftHandThumb3
+    100056: LeftHandThumb4
+    100058: LeftLeg
+    100060: LeftShoulder
+    100062: LeftToe_End
+    100064: LeftToeBase
+    100066: LeftUpLeg
+    100068: Neck
+    100070: RightArm
+    100072: RightFoot
+    100074: RightForeArm
+    100076: RightHand
+    100078: RightHandIndex1
+    100080: RightHandIndex2
+    100082: RightHandIndex3
+    100084: RightHandIndex4
+    100086: RightHandMiddle1
+    100088: RightHandMiddle2
+    100090: RightHandMiddle3
+    100092: RightHandMiddle4
+    100094: RightHandPinky1
+    100096: RightHandPinky2
+    100098: RightHandPinky3
+    100100: RightHandPinky4
+    100102: RightHandRing1
+    100104: RightHandRing2
+    100106: RightHandRing3
+    100108: RightHandRing4
+    100110: RightHandThumb1
+    100112: RightHandThumb2
+    100114: RightHandThumb3
+    100116: RightHandThumb4
+    100118: RightLeg
+    100120: RightShoulder
+    100122: RightToe_End
+    100124: RightToeBase
+    100126: RightUpLeg
+    100128: Spine
+    100130: Spine1
+    100132: Spine2
+    400000: //RootNode
+    400002: Character_1_full_body
+    400004: Head
+    400006: HeadTop_End
+    400008: Hips
+    400010: LeftArm
+    400012: LeftFoot
+    400014: LeftForeArm
+    400016: LeftHand
+    400018: LeftHandIndex1
+    400020: LeftHandIndex2
+    400022: LeftHandIndex3
+    400024: LeftHandIndex4
+    400026: LeftHandMiddle1
+    400028: LeftHandMiddle2
+    400030: LeftHandMiddle3
+    400032: LeftHandMiddle4
+    400034: LeftHandPinky1
+    400036: LeftHandPinky2
+    400038: LeftHandPinky3
+    400040: LeftHandPinky4
+    400042: LeftHandRing1
+    400044: LeftHandRing2
+    400046: LeftHandRing3
+    400048: LeftHandRing4
+    400050: LeftHandThumb1
+    400052: LeftHandThumb2
+    400054: LeftHandThumb3
+    400056: LeftHandThumb4
+    400058: LeftLeg
+    400060: LeftShoulder
+    400062: LeftToe_End
+    400064: LeftToeBase
+    400066: LeftUpLeg
+    400068: Neck
+    400070: RightArm
+    400072: RightFoot
+    400074: RightForeArm
+    400076: RightHand
+    400078: RightHandIndex1
+    400080: RightHandIndex2
+    400082: RightHandIndex3
+    400084: RightHandIndex4
+    400086: RightHandMiddle1
+    400088: RightHandMiddle2
+    400090: RightHandMiddle3
+    400092: RightHandMiddle4
+    400094: RightHandPinky1
+    400096: RightHandPinky2
+    400098: RightHandPinky3
+    400100: RightHandPinky4
+    400102: RightHandRing1
+    400104: RightHandRing2
+    400106: RightHandRing3
+    400108: RightHandRing4
+    400110: RightHandThumb1
+    400112: RightHandThumb2
+    400114: RightHandThumb3
+    400116: RightHandThumb4
+    400118: RightLeg
+    400120: RightShoulder
+    400122: RightToe_End
+    400124: RightToeBase
+    400126: RightUpLeg
+    400128: Spine
+    400130: Spine1
+    400132: Spine2
+    4300000: Character_1_full_body
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Character_1_full_body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head
+    second: {fileID: 2100000, guid: 3a7e1c20921d989428484d1a397d0e24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt_pant
+    second: {fileID: 2100000, guid: df9dfb749e670f04db37037783d07dfc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Character_1@Jump_2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_1_full_body
+      parentName: Character_1@Jump_2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Character_1@Jump_2(Clone)
+      position: {x: 4.656613e-10, y: 0.059141595, z: -0.0007567282}
+      rotation: {x: -0.0000000045474735, y: -0, z: -0, w: 1}
+      scale: {x: 100, y: 100.000015, z: 99.99999}
+    - name: LeftUpLeg
+      parentName: Hips
+      position: {x: -0.00007002288, y: -0.000036051086, z: -0.0000008720893}
+      rotation: {x: 0.0005511873, y: -0.025410924, z: 0.99944186, w: 0.021678988}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1}
+    - name: LeftLeg
+      parentName: LeftUpLeg
+      position: {x: -2.5024674e-13, y: 0.00025137552, z: 5.841008e-13}
+      rotation: {x: -0.0047055907, y: -0.00003895036, z: 0.008292232, w: 0.9999546}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: LeftFoot
+      parentName: LeftLeg
+      position: {x: -2.3728255e-13, y: 0.00022433279, z: 9.041901e-13}
+      rotation: {x: 0.51471746, y: -0.0022104413, z: 0.0013269759, w: 0.857356}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: LeftToeBase
+      parentName: LeftFoot
+      position: {x: 9.4939695e-14, y: 0.00012353189, z: 2.0187326e-12}
+      rotation: {x: 0.29995522, y: -0.04927912, z: 0.015517693, w: 0.9525533}
+      scale: {x: 1.0000013, y: 1.0000006, z: 1.0000006}
+    - name: LeftToe_End
+      parentName: LeftToeBase
+      position: {x: 1.5054879e-13, y: 0.000049618706, z: -8.99429e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightUpLeg
+      parentName: Hips
+      position: {x: 0.00007002288, y: -0.000036051086, z: 0.00000003043213}
+      rotation: {x: -0.0006003035, y: -0.0276824, z: 0.99938166, w: -0.021672467}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: RightLeg
+      parentName: RightUpLeg
+      position: {x: -5.486039e-13, y: 0.00025143614, z: -3.2877337e-14}
+      rotation: {x: 0.0017637267, y: -0.000014565652, z: -0.008281313, w: 0.9999642}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000001}
+    - name: RightFoot
+      parentName: RightLeg
+      position: {x: 2.2774558e-13, y: 0.00022422732, z: 6.9507418e-15}
+      rotation: {x: 0.50972366, y: 0.0021983061, z: -0.0013023766, w: 0.8603344}
+      scale: {x: 1.000001, y: 1.000001, z: 1.0000004}
+    - name: RightToeBase
+      parentName: RightFoot
+      position: {x: -2.1767032e-13, y: 0.00012288152, z: 5.5301714e-12}
+      rotation: {x: 0.30123985, y: 0.048526645, z: -0.015352225, w: 0.95218915}
+      scale: {x: 1.0000005, y: 1.0000006, z: 0.9999999}
+    - name: RightToe_End
+      parentName: RightToeBase
+      position: {x: 1.6257747e-13, y: 0.000050054667, z: -1.3751329e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -0, y: 0.00006483044, z: -0.0000012255379}
+      rotation: {x: -0.009450623, y: 0.000000018199831, z: -9.649117e-10, w: 0.99995536}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Spine1
+      parentName: Spine
+      position: {x: -0, y: 0.000075648975, z: 1.2520535e-14}
+      rotation: {x: 0.0000000037252903, y: -0.000000018208139, z: 7.92869e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Spine2
+      parentName: Spine1
+      position: {x: -0, y: 0.000086455955, z: 8.1080677e-13}
+      rotation: {x: -0.000000017695129, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999964}
+    - name: Neck
+      parentName: Spine2
+      position: {x: -0, y: 0.00009726302, z: -3.2585168e-13}
+      rotation: {x: 0.009450641, y: 0.000000018146103, z: 0.000000004719176, w: 0.99995536}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -0, y: 0.000038735194, z: 0.0000063202}
+      rotation: {x: -2.9985292e-16, y: -0.000000018189892, z: -0.0000000017053023,
+        w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: HeadTop_End
+      parentName: Head
+      position: {x: -0, y: 0.0004253385, z: 0.000069400034}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulder
+      parentName: Spine2
+      position: {x: -0.000042927775, y: 0.00008252632, z: -0.00000024695197}
+      rotation: {x: 0.5719433, y: -0.41467813, z: 0.5751853, w: 0.41241342}
+      scale: {x: 1.000001, y: 1.0000017, z: 1.0000015}
+    - name: LeftArm
+      parentName: LeftShoulder
+      position: {x: -3.433101e-13, y: 0.00009132466, z: 2.2444937e-12}
+      rotation: {x: -0.12856966, y: 0.0022449642, z: -0.01731366, w: 0.9915468}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000002}
+    - name: LeftForeArm
+      parentName: LeftArm
+      position: {x: -8.1064035e-14, y: 0.00019539088, z: 3.0248165e-13}
+      rotation: {x: -0.069274634, y: -0.00011107326, z: 0.0015991032, w: 0.9975964}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000006}
+    - name: LeftHand
+      parentName: LeftForeArm
+      position: {x: 2.7068872e-13, y: 0.00018605527, z: -5.484807e-14}
+      rotation: {x: -0.04976, y: -0.03704413, z: 0.07124408, w: 0.99552804}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000011}
+    - name: LeftHandThumb1
+      parentName: LeftHand
+      position: {x: 0.00001573161, y: 0.00000987715, z: 0.000004523022}
+      rotation: {x: 0.03438416, y: -0.043936733, z: -0.54500127, w: 0.836577}
+      scale: {x: 0.9999985, y: 1.0000002, z: 0.9999991}
+    - name: LeftHandThumb2
+      parentName: LeftHandThumb1
+      position: {x: -0.00000292066, y: 0.000015012978, z: 2.8099536e-13}
+      rotation: {x: 0.02209498, y: -0.0038619367, z: 0.13699734, w: 0.99031746}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: LeftHandThumb3
+      parentName: LeftHandThumb2
+      position: {x: 0.0000025115166, y: 0.00001905643, z: -2.0784623e-14}
+      rotation: {x: -0.026344912, y: -0.0015221036, z: -0.022746196, w: 0.9993929}
+      scale: {x: 1.0000001, y: 1.0000013, z: 1.0000014}
+    - name: LeftHandThumb4
+      parentName: LeftHandThumb3
+      position: {x: 0.0000004091448, y: 0.000016600414, z: -4.273612e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandMiddle1
+      parentName: LeftHand
+      position: {x: 0.0000063060106, y: 0.00005115865, z: -0.0000014715986}
+      rotation: {x: 0.06437021, y: -0.006595411, z: -0.08411121, w: 0.9943532}
+      scale: {x: 0.9999998, y: 1.000001, z: 1.0000006}
+    - name: LeftHandMiddle2
+      parentName: LeftHandMiddle1
+      position: {x: -0.00000005976948, y: 0.000021244336, z: 1.1549789e-14}
+      rotation: {x: 0.040203672, y: -0.000035187688, z: 0.00064191694, w: 0.99919134}
+      scale: {x: 1.0000006, y: 1.0000014, z: 1.0000019}
+    - name: LeftHandMiddle3
+      parentName: LeftHandMiddle2
+      position: {x: 0.0000000060524767, y: 0.000019420926, z: -1.6066079e-13}
+      rotation: {x: 0.040548168, y: 0.00003584317, z: 0.0004772759, w: 0.9991775}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: LeftHandMiddle4
+      parentName: LeftHandMiddle3
+      position: {x: 0.000000053716988, y: 0.000017155968, z: 1.7665632e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRing1
+      parentName: LeftHand
+      position: {x: -0.000005438949, y: 0.000056452427, z: -0.0000013659068}
+      rotation: {x: 0.064850874, y: -0.0011860761, z: -0.043200962, w: 0.9969587}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1.0000004}
+    - name: LeftHandRing2
+      parentName: LeftHandRing1
+      position: {x: 0.000000004746502, y: 0.000016003758, z: -6.0251804e-15}
+      rotation: {x: 0.038871974, y: -0.000068904345, z: -0.0009018085, w: 0.99924386}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1.0000001}
+    - name: LeftHandRing3
+      parentName: LeftHandRing2
+      position: {x: -0.00000004482583, y: 0.000016241725, z: 3.4247008e-13}
+      rotation: {x: -0.034730356, y: -0.000037105732, z: 0.002427568, w: 0.9993938}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: LeftHandRing4
+      parentName: LeftHandRing3
+      position: {x: 0.00000004007922, y: 0.0000122259, z: 2.1466022e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandPinky1
+      parentName: LeftHand
+      position: {x: -0.000018421346, y: 0.00005484609, z: -0.0000016077162}
+      rotation: {x: 0.050629992, y: 0.006194091, z: -0.015268688, w: 0.9985816}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000007}
+    - name: LeftHandPinky2
+      parentName: LeftHandPinky1
+      position: {x: -0.000000017724108, y: 0.000015601026, z: -7.652212e-15}
+      rotation: {x: 0.041659474, y: 0.000000049127266, z: -0.00000015835394, w: 0.9991319}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000011}
+    - name: LeftHandPinky3
+      parentName: LeftHandPinky2
+      position: {x: -0.00000007461083, y: 0.000013015089, z: -1.1958628e-13}
+      rotation: {x: 0.03756588, y: 0.00013165538, z: -0.005030375, w: -0.9992815}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000012}
+    - name: LeftHandPinky4
+      parentName: LeftHandPinky3
+      position: {x: 0.00000009233518, y: 0.000010323725, z: 7.101708e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndex1
+      parentName: LeftHand
+      position: {x: 0.000017554286, y: 0.00004869618, z: -0.0000012138703}
+      rotation: {x: 0.048840385, y: -0.009114311, z: -0.1144874, w: 0.9921816}
+      scale: {x: 1.0000001, y: 1.000001, z: 1.0000007}
+    - name: LeftHandIndex2
+      parentName: LeftHandIndex1
+      position: {x: -0.00000011640618, y: 0.000018918457, z: 8.1282203e-16}
+      rotation: {x: 0.040017087, y: -0.00007003916, z: 0.0017002447, w: 0.9991976}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000006}
+    - name: LeftHandIndex3
+      parentName: LeftHandIndex2
+      position: {x: 0.00000002802066, y: 0.000017064656, z: 1.5535877e-13}
+      rotation: {x: 0.03830425, y: 0.00000021798107, z: 0.000000028044052, w: 0.99926615}
+      scale: {x: 0.9999997, y: 0.9999994, z: 0.9999995}
+    - name: LeftHandIndex4
+      parentName: LeftHandIndex3
+      position: {x: 0.00000008838543, y: 0.000015314401, z: -3.5039262e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightShoulder
+      parentName: Spine2
+      position: {x: 0.000042927775, y: 0.000082527506, z: -0.00000031018448}
+      rotation: {x: -0.5715164, y: -0.41498503, z: 0.57559896, w: -0.41211933}
+      scale: {x: 1.0000008, y: 1.0000013, z: 1.0000011}
+    - name: RightArm
+      parentName: RightShoulder
+      position: {x: 2.833293e-13, y: 0.00009132467, z: -6.9887596e-13}
+      rotation: {x: -0.12854894, y: -0.0023311377, z: 0.017980486, w: 0.99153745}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000001}
+    - name: RightForeArm
+      parentName: RightArm
+      position: {x: 2.9093454e-13, y: 0.00019538996, z: 3.6966637e-13}
+      rotation: {x: 0.06925312, y: -0.00005748868, z: 0.00082850456, w: -0.9975988}
+      scale: {x: 0.9999995, y: 1.0000001, z: 0.9999999}
+    - name: RightHand
+      parentName: RightForeArm
+      position: {x: -8.6671725e-14, y: 0.00018606083, z: -2.0691379e-13}
+      rotation: {x: -0.05150245, y: 0.03835079, z: -0.070078224, w: 0.99547267}
+      scale: {x: 0.9999992, y: 0.9999996, z: 1}
+    - name: RightHandThumb1
+      parentName: RightHand
+      position: {x: -0.00001473101, y: 0.000009454415, z: 0.000004257145}
+      rotation: {x: 0.032990295, y: 0.04608388, z: 0.5508139, w: 0.8327016}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000007}
+    - name: RightHandThumb2
+      parentName: RightHandThumb1
+      position: {x: 0.0000031178597, y: 0.000014070065, z: 1.2153042e-13}
+      rotation: {x: 0.021333214, y: 0.0062535405, z: -0.1381281, w: 0.9901649}
+      scale: {x: 0.9999999, y: 1.0000011, z: 1.0000007}
+    - name: RightHandThumb3
+      parentName: RightHandThumb2
+      position: {x: -0.0000021877536, y: 0.000019825235, z: 8.2208085e-13}
+      rotation: {x: 0.036339562, y: -0.0020784163, z: 0.012839235, w: 0.9992549}
+      scale: {x: 1.0000006, y: 1.0000014, z: 1.0000008}
+    - name: RightHandThumb4
+      parentName: RightHandThumb3
+      position: {x: -0.00000093010635, y: 0.000019028512, z: -5.743622e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndex1
+      parentName: RightHand
+      position: {x: -0.000017327098, y: 0.000049272323, z: -0.0000011246101}
+      rotation: {x: 0.046155177, y: 0.009666679, z: 0.11012726, w: 0.99279815}
+      scale: {x: 1.0000013, y: 1.0000011, z: 1.000001}
+    - name: RightHandIndex2
+      parentName: RightHandIndex1
+      position: {x: 0.00000011538735, y: 0.000018216193, z: 4.1137788e-14}
+      rotation: {x: 0.040431976, y: 0.00006715672, z: -0.0011713282, w: 0.9991816}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: RightHandIndex3
+      parentName: RightHandIndex2
+      position: {x: -0.000000004810338, y: 0.000017261813, z: 1.9208842e-13}
+      rotation: {x: 0.04024616, y: -0.00009851606, z: -0.0013717974, w: 0.99918884}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.0000002}
+    - name: RightHandIndex4
+      parentName: RightHandIndex3
+      position: {x: -0.00000011057559, y: 0.0000152466, z: 1.4493254e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandMiddle1
+      parentName: RightHand
+      position: {x: -0.000005642164, y: 0.000051535233, z: -0.0000014998207}
+      rotation: {x: 0.06410006, y: 0.0061405874, z: 0.07673916, w: 0.99496967}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000002}
+    - name: RightHandMiddle2
+      parentName: RightHandMiddle1
+      position: {x: 0.000000026368957, y: 0.000020432928, z: -1.4638428e-14}
+      rotation: {x: 0.039852247, y: 0.000008927653, z: -0.0004906565, w: 0.9992055}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000004}
+    - name: RightHandMiddle3
+      parentName: RightHandMiddle2
+      position: {x: -0.000000015672061, y: 0.000019838184, z: -3.052654e-13}
+      rotation: {x: -0.0033181005, y: 0.000000043546375, z: 0.000000016993168, w: 0.9999945}
+      scale: {x: 0.99999934, y: 0.9999996, z: 0.99999964}
+    - name: RightHandMiddle4
+      parentName: RightHandMiddle3
+      position: {x: -0.000000010696584, y: 0.000016734111, z: 4.4603486e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRing1
+      parentName: RightHand
+      position: {x: 0.000005536573, y: 0.000055899927, z: -0.0000018562073}
+      rotation: {x: -0.06346129, y: 0.00063367916, z: -0.036800474, w: -0.9973054}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000006}
+    - name: RightHandRing2
+      parentName: RightHandRing1
+      position: {x: 0.0000000062538, y: 0.000016806562, z: -1.371206e-13}
+      rotation: {x: 0.04049819, y: 0.000048187136, z: 0.0006441628, w: 0.9991794}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: RightHandRing3
+      parentName: RightHandRing2
+      position: {x: 0.00000006516415, y: 0.000016015798, z: 2.325956e-13}
+      rotation: {x: 0.034559064, y: -0.00012548978, z: 0.003983012, w: -0.9993947}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000007}
+    - name: RightHandRing4
+      parentName: RightHandRing3
+      position: {x: -0.00000007141831, y: 0.000012347074, z: -9.818507e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandPinky1
+      parentName: RightHand
+      position: {x: 0.00001743269, y: 0.000054586984, z: -0.0000015698014}
+      rotation: {x: -0.043261882, y: 0.009952432, z: -0.0025489975, w: -0.999011}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: RightHandPinky2
+      parentName: RightHandPinky1
+      position: {x: 0.000000056866487, y: 0.000016179316, z: -1.2816636e-13}
+      rotation: {x: 0.042416032, y: 0.000000057741985, z: 0.00000014319082, w: 0.9991}
+      scale: {x: 0.99999994, y: 0.9999995, z: 0.99999994}
+    - name: RightHandPinky3
+      parentName: RightHandPinky2
+      position: {x: 0.00000013281468, y: 0.000013536007, z: -2.2554152e-13}
+      rotation: {x: 0.03356979, y: -0.0008150236, z: 0.0122443745, w: -0.9993611}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000008}
+    - name: RightHandPinky4
+      parentName: RightHandPinky3
+      position: {x: -0.00000018968137, y: 0.000009642975, z: -5.1347954e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
